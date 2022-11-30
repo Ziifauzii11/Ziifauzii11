@@ -17,6 +17,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=32&color=F74949&font=poppins&center=true&vCenter=true&multiline=true&lines=Hi+%F0%9F%91%8B+I'm+Fauzi"> 
 </h1>
 
+<details>
+<summary><b>Github Profile Trophy</b></summary>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ziifauzii11" alt="uixhamzah" /></a> </p>
+</details>
+
 ### Github Statistic
 <!--   Status github -->
 <p align="left">
